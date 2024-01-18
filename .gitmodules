@@ -1,6 +1,4 @@
-[submodule "themes/oliver"]
-	path = themes/oliver
-	url = git@github.com:EvanLuo42/oliver.git
-[submodule "themes/hexo-theme-cactus"]
-	path = themes/hexo-theme-cactus
-	url = git@github.com:no2y/hexo-theme-cactus.git
+[submodule "themes/part"]
+	path = themes/part
+	url = git@github.com:caikunsen/hexo-theme-particlex.git
+
