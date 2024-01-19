@@ -1,3 +1,10 @@
+---
+title: Hexo + GitHub 搭建个人博客教程
+date: 2024-01-19 15:00:00
+updated: 2024-01-19 15:00:00
+tags:
+  - Hexo
+---
 
 # 1、Hexo 搭建步骤
 ## 1. 安装Hexo
