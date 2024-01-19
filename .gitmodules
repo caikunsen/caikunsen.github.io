@@ -1,4 +1,6 @@
 [submodule "themes/part"]
 	path = themes/part
 	url = git@github.com:caikunsen/hexo-theme-particlex.git
-
+[submodule "themes/ayer"]
+	path = themes/ayer
+	url = git@github.com:caikunsen/hexo-theme-ayer.git
