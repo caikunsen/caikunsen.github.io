@@ -5,4 +5,4 @@ updated: 2024-01-22 11:00:00
 tags:
   - Java
 ---
-{% pdf /pdf/xxx.pdf %}
+{% pdf /pdf/JAVA核心面试知识整理.pdf %}
